@@ -19,6 +19,7 @@ How to. Test gif
 
 ## How to test my new Minecraft Education Extension?
 **Extensions**
+
 ![image](https://github.com/microsoft/makecode-minecraft-roller-coaster/assets/69657545/832a523e-c757-4f6f-b170-87460501ef13)
 
 
